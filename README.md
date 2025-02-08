@@ -13,5 +13,6 @@
 
 ## January, 2025
 
-February, 2025
-- 2025.02.08.토 :  ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
+##February, 2025
+- 2025-02-08 : 인공지능과 관련된 수학 개념 공부 ([상세 내역 링크](https://jolly-troodon-eb3.notion.site/2-19409fd9adc480948ef7ce61338970e2?pvs=4))
+
