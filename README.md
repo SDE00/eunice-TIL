@@ -1,23 +1,17 @@
-# til-template
+# Today I Learned - eunice.song(송동은)
+----------------------------------------
 
-## 오늘 내가 배운 것들(Today I Learned)
+## 작성 방법
+- 매일 TIL 문서를 yyyy-mm-dd_TIL.md 이름으로 만들어 작성함.
+- 정기적으로 매 주 일요일에 Retrospect 문서를 yyyy-mm-dd_yyyy-mm-dd_Retrospect.md 이름으로 만들어 작성함
+- 그 외 특별히 필요한 경우에도 Retrospect 문서를 작성함
 
-### [4월 첫째주, 1주차] : html, css
+## 문서 별 정의
+- TIL (Today I Learned) : 오늘 배운 것, 공부한 것, 연구한 것에 대해 요약 정리
+- Retrospect (회고) : 일정 기간 동안에 한 것으로 되돌아보고, 앞으로 어떻게 할 지에 대해 고민하고 정리
 
-24.04.05 세부 주제 4 작성 (상세 내역 링크)
 
-24.04.04 세부 주제 3 작성 (상세 내역 링크)
+## January, 2025
 
-24.04.03 세부 주제 2 작성 (상세 내역 링크)
-
-24.04.02 세부 주제 1 작성 (상세 내역 링크)
-
-### [n월 n째주, n주차] : 간략 주제 작성 
-
-yy.mm.dd 세부 주제 4 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 3 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 2 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 1 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
+February, 2025
+- 2025.02.08.토 :  ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
