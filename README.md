@@ -12,7 +12,9 @@
 
 
 ## January, 2025
-
-##February, 2025
+- 2025-01-20 : 카카오테크 부트캠프 오리엔테이션
+- 2025-01-21 : 프로그래밍의 기본 요소와 FlowChart
+- 
+## February, 2025
 - 2025-02-08 : 인공지능과 관련된 수학 개념 공부 ([상세 내역 링크](https://jolly-troodon-eb3.notion.site/2-19409fd9adc480948ef7ce61338970e2?pvs=4))
 
