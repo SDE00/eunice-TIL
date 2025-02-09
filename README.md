@@ -17,4 +17,4 @@
 - 
 ## February, 2025
 - 2025-02-08(Sat) : 인공지능과 관련된 수학 개념 공부 ([상세 내역 링크](https://jolly-troodon-eb3.notion.site/2-19409fd9adc480948ef7ce61338970e2?pvs=4))
-- 2025-02-09(Sun) : Notion의 Relation과 Rollup 속성 ([상세 내역 링크]())
+- 2025-02-09(Sun) : Notion의 Relation과 Rollup 속성 ([상세 내역 링크](https://github.com/SDE00/eunice-TIL/blob/main/02%20february/2025-02-09_TIL.md))
