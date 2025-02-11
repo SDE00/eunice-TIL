@@ -19,4 +19,6 @@
 - 2025-02-08(Sat) : 인공지능과 관련된 수학 개념 공부 ([상세 내역 링크](https://jolly-troodon-eb3.notion.site/2-19409fd9adc480948ef7ce61338970e2?pvs=4))
 - 2025-02-09(Sun) : Notion의 Relation과 Rollup 속성 ([상세 내역 링크](https://github.com/SDE00/eunice-TIL/blob/main/02%20february/2025-02-09_TIL.md))
 - 2025-02-10(Mon) : 데이터 시각화와 3개의 라이브러리 ([상세 내역 링크](https://github.com/SDE00/eunice-TIL/blob/main/02%20february/2025-02-10_TIL.md))
+- 2025-02-11(Tue) : krampoline 특강 진행 및 docker 추가 학습 ([상세 내역 링크](https://github.com/SDE00/eunice-TIL/blob/main/02%20february/2025-02-11_TIL.md))
+
 
