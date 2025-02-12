@@ -20,5 +20,5 @@
 - 2025-02-09(Sun) : Notion의 Relation과 Rollup 속성 ([상세 내역 링크](https://github.com/SDE00/eunice-TIL/blob/main/02%20february/2025-02-09_TIL.md))
 - 2025-02-10(Mon) : 데이터 시각화와 3개의 라이브러리 ([상세 내역 링크](https://github.com/SDE00/eunice-TIL/blob/main/02%20february/2025-02-10_TIL.md))
 - 2025-02-11(Tue) : krampoline 특강 진행 및 docker 추가 학습 ([상세 내역 링크](https://github.com/SDE00/eunice-TIL/blob/main/02%20february/2025-02-11_TIL.md))
-
+- 2025-02-12(Wed) : 수학적인 확률의 표현 PDF / CDF와 정규 분포 ([상세 내역 링크](https://github.com/SDE00/eunice-TIL/blob/main/02%20february/2025-02-12_TIL.md))
 
