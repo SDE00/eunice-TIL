@@ -23,4 +23,4 @@
 - 2025-02-12(Wed) : 수학적인 확률의 표현 PDF / CDF와 정규 분포 ([상세 내역 링크](https://github.com/SDE00/eunice-TIL/blob/main/02%20february/2025-02-12_TIL.md))
 - 2025-02-13(Tur) : 귀무가설 / 예측값과 실제값의 비교(confusion matrix) ([상세 내역 링크](https://github.com/SDE00/eunice-TIL/blob/main/02%20february/2025-02-13_TIL.md))
 - 2025-02-14(Fri) : 데이터 리모델링 패키지를 활용한 데이터의 변환/집계 ([상세 내역 링크](https://github.com/SDE00/eunice-TIL/blob/main/02%20february/2025-02-14_TIL.md))
-- 
+- 2025-02-15(Sat) : 선형대수 2번째 공부, 기초 개념 정리 ([상세 내역 링크](https://github.com/SDE00/eunice-TIL/blob/main/february%2002/2025-02-15%20_TIL.md))
